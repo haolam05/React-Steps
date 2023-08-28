@@ -1,3 +1,10 @@
+
+![Screenshot 2023-08-28 013040](https://github.com/haolam05/React-Steps/assets/71291057/0a9f6e8d-23d2-4d5d-be14-1149940cf056)
+
+![Screenshot 2023-08-28 013035](https://github.com/haolam05/React-Steps/assets/71291057/92b2ad85-7374-49c5-87a3-b6cd6a9449c4)
+
+![Screenshot 2023-08-28 013028](https://github.com/haolam05/React-Steps/assets/71291057/d9d3269a-5589-4017-b730-f3ca631d28ff)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
